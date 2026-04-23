@@ -1,7 +1,7 @@
 // ==============================================================================================
 // NY Tech Week Event Crawler
 // ==============================================================================================
-// Author: @rmncldyo
+// Author: @ramonclaudio
 // Date: 2025-06-04
 // Description: This script crawls the NY Tech Week website and extracts event data.
 // ==============================================================================================
@@ -67,4 +67,4 @@ function downloadJSON(obj, filename) {
 
 downloadJSON(events, "ny-tech-week-events.json");
 
-// Made with ❤️ by @rmncldyo
+// Made with ❤️ by @ramonclaudio
